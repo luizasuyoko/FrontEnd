@@ -1,0 +1,31 @@
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    background: lightgrey;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btnRemove{
+    padding: 6px 10px;
+    border-radius: 5px;
+    background: red;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
+
+.Cor{
+    padding: 6px 10px;
+    border-radius: 5px;
+    background: red;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
